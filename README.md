@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to master **python language**
 
-- 👨‍💻 All of my projects are available at (my GitHub.com)
+- 👨‍💻 All of my projects are available at [my GitHub.com]
 
 - 📫 How to reach me **twitter.com**
 
