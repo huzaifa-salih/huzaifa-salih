@@ -1,3 +1,3 @@
-<h1 align="center">Hi there 👋, I'm </h1>
+<h1 align="center">Hi there 👋 </h1>
 
 
